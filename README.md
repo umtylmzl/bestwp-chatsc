@@ -27,3 +27,6 @@ Ayrıntılar için depo içindeki `sql/install.sql` ve `baglan.example.php` yoru
 **Umut Yılmaz** — [GitHub](https://github.com/umtylmzl)
 ## Lisans
 Bu depodaki kullanım ve lisans tercihinize bağlıdır; dağıtırken kendi lisans dosyanızı eklemeniz önerilir.
+<img width="1918" height="969" alt="Ekran Resmi 2026-03-30 04 11 41" src="https://github.com/user-attachments/assets/8fe3100c-c64a-46fc-a772-f836bdb22e38" />
+<img width="1918" height="969" alt="Ekran Resmi 2026-03-30 04 19 40" src="https://github.com/user-attachments/assets/1c4ddf6d-d671-4b4f-9b68-1254f0325081" />
+<img width="1918" height="969" alt="Ekran Resmi 2026-03-30 04 17 51" src="https://github.com/user-attachments/assets/f7097832-2893-423a-a9a2-9078343c4042" />
